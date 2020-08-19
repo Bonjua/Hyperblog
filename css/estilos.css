@@ -1,6 +1,6 @@
 body
-{
-    color:blue;
+´{
+    color: #333;
     text-align: left;
     font-family: "Arial";
     font-size: 16px;
@@ -36,7 +36,7 @@ body
 
 #container h1
 {
-    font-size 20px;
+    font-size: 20px;
 }
 
 #post
